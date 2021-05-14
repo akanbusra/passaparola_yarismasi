@@ -1,0 +1,11 @@
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\bin\Debug\yarışma_proje.exe.config
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\bin\Debug\yarışma_proje.exe
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\bin\Debug\yarışma_proje.pdb
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\obj\Debug\yarışma_proje.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\obj\Debug\yarışma_proje.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\obj\Debug\yarışma_proje.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\obj\Debug\yarışma_proje.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\obj\Debug\yarışma_proje.exe
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\obj\Debug\yarışma_proje.pdb
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\obj\Debug\yarışma_proje.Frmyarısma.resources
+C:\Users\busra\OneDrive\Masaüstü\c# ile 25 derste 25 proje\yarışma_proje\yarışma_proje\obj\Debug\yarışma_proje.FrmGiris.resources
